@@ -1,0 +1,3 @@
+Repositório destinado aos arquivos do curso de PostGreeSQL!
+
+Repository for PostGreeSQL course files!
